@@ -129,7 +129,7 @@ BEGIN
         WITH cte_sales AS (
             SELECT 
                 sls_ord_num,
-                TRIM(sls_prd_key) AS sls_prd_key,
+                REPLACE(TRIM(sls_prd_key),'-','_') AS sls_prd_key,
                 sls_cust_id,
                 CASE WHEN LEN(sls_order_dt) = 8 THEN TRY_CAST(sls_order_dt AS DATE) END AS sls_order_dt,
                 CASE WHEN LEN(sls_ship_dt) = 8 THEN TRY_CAST(sls_ship_dt AS DATE) END AS sls_ship_dt,
@@ -255,5 +255,8 @@ BEGIN
 	END CATCH
 
 END;
+
+
+
 
 
