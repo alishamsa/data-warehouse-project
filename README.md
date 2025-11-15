@@ -92,7 +92,7 @@ data-warehouse-project/
 ---
 
 ## ☕ Stay Connected
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ashamsa141@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashamsa141@gmail.com)
 [![Tableau Public](https://img.shields.io/badge/Tableau-0081C6?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ali.shamsa/vizzes)
 
 ---
