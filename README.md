@@ -93,10 +93,8 @@ data-warehouse-project/
 
 ## ☕ Stay Connected
 
-You can reach me via email: [myemail@gmail.com](ashamsa141@gmail.com)
-
-Check out my Tableau Public dashboards: [Tableau Public Profile]([https://public.tableau.com/app/profile/yourusername](https://public.tableau.com/app/profile/ali.shamsa/vizzes))
-
+You can reach me via email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ashamsa141@gmail.com).
+Check out my Tableau Public dashboards: [![Tableau Public](https://img.shields.io/badge/Tableau-0081C6?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ali.shamsa/vizzes)
 
 ---
 
